@@ -13,7 +13,7 @@
 11. [ANCIT - AUTOSAR - LIN Stack](https://www.youtube.com/watch?v=HRS1FaHn3kM)
 12. [ANCIT - AUTOSAR - Memory Abstraction](https://www.youtube.com/watch?v=1Djr2WMDckg)
 13. [ANCIT - AUTOSAR - Multicore OS](https://www.youtube.com/watch?v=6ncJLBf-5J4)
-14. [AUTOSAR - Configuring BSWM in AUTOSAR](https://www.youtube.com/watch?v=kS_cAXnIf2U)
+14. [AutoEConnect - AUTOSAR - Configuring BSWM in AUTOSAR](https://www.youtube.com/watch?v=kS_cAXnIf2U)
 15. [AutoEConnect - AUTOSAR - NVM Module in AUTOSAR](https://www.youtube.com/watch?v=0QG_5dKXUQg)
 16. [AutoEConnect - AUTOSAR - Configuring PDUR Module in AUTOSAR and Gateway Concepts](https://www.youtube.com/watch?v=m6FPi3TVXHY)
 17. [AutoEConnect - AutoEConnect - AUTOSAR - Configuration of CAN Communication & Communication Flow in AUTOSAR Part-1](https://www.youtube.com/watch?v=kzLxVcw-tqA)
