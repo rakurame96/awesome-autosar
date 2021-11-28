@@ -1,2 +1,19 @@
-# awesome-autosar
-Collection of all the resources available on internet about AUTOSAR
+### AUTOSAR Online Videos for Begineers
+
+1. [AUTOSAR Basics & Key Understandings for an AUTOSAR Learner](https://www.youtube.com/watch?v=xPE32zFRxYs)
+2. [Introduction to AUTOSAR](https://www.youtube.com/watch?v=NfZI8wvgZPo)
+3. [AUTOSAR - Application Software Component Development](https://www.youtube.com/watch?v=m_4PPoIyfro)
+4. [AUTOSAR - RTE](https://www.youtube.com/watch?v=rRCNVC6Z9JU)
+5. [AUTOSAR - OS](https://www.youtube.com/watch?v=8mZ8WCfv9Yw)
+6. [AUTOSAR - System Template](https://www.youtube.com/watch?v=tmTHOEHi1Nc)
+7. [AUTOSAR - COM Stack](https://www.youtube.com/watch?v=pPAw0DCaTiA)
+8. [AUTOSAR - ECU C Extract](https://www.youtube.com/watch?v=FFxtk8Luki4)
+9. [AUTOSAR - Diagnostics Stack](https://www.youtube.com/watch?v=k3aBUyLpUNI&t)
+10. [AUTOSAR - LIN Stack](https://www.youtube.com/watch?v=HRS1FaHn3kM)
+11. [AUTOSAR - Memory Abstraction](https://www.youtube.com/watch?v=1Djr2WMDckg)
+12. [AUTOSAR - Multicore OS](https://www.youtube.com/watch?v=6ncJLBf-5J4)
+13. [AUTOSAR - Configuring BSWM in AUTOSAR](https://www.youtube.com/watch?v=kS_cAXnIf2U)
+14. [AUTOSAR - NVM Module in AUTOSAR](https://www.youtube.com/watch?v=0QG_5dKXUQg)
+15. [Configuring PDUR Module in AUTOSAR and Gateway Concepts](https://www.youtube.com/watch?v=m6FPi3TVXHY)
+16. [AUTOSAR - Configuration of CAN Communication & Communication Flow in AUTOSAR Part-1](https://www.youtube.com/watch?v=kzLxVcw-tqA)
+17. [AUTOSAR - Configuration of CAN Communication & Communication Flow in AUTOSAR Part-2](https://www.youtube.com/watch?v=GgtJFnzNndM)
