@@ -18,3 +18,8 @@
 16. [AutoEConnect - AUTOSAR - Configuring PDUR Module in AUTOSAR and Gateway Concepts](https://www.youtube.com/watch?v=m6FPi3TVXHY)
 17. [AutoEConnect - AutoEConnect - AUTOSAR - Configuration of CAN Communication & Communication Flow in AUTOSAR Part-1](https://www.youtube.com/watch?v=kzLxVcw-tqA)
 18. [AutoEConnect - AUTOSAR - Configuration of CAN Communication & Communication Flow in AUTOSAR Part-2](https://www.youtube.com/watch?v=GgtJFnzNndM)
+19. [Synchronous vs Asynchronous Applications (Explained by Example)](https://www.youtube.com/watch?v=N5Ky-mz6n-8)
+
+
+Note:
+Synchronous vs Asynchronous - Concept is similar to AUTOSAR
