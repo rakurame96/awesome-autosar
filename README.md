@@ -20,6 +20,8 @@
 18. [AutoEConnect - AUTOSAR - Configuration of CAN Communication & Communication Flow in AUTOSAR Part-2](https://www.youtube.com/watch?v=GgtJFnzNndM)
 19. [Synchronous vs Asynchronous Applications (Explained by Example)](https://www.youtube.com/watch?v=N5Ky-mz6n-8)
 20. [Introduction to Communication management in AUTOSAR Adaptive platform by Guruprasad Bhat](https://medium.com/@blguru20/introduction-to-communication-management-in-autosar-adaptive-platform-b554c4e19d9)
+21. [Manifest in Adaptive AUTOSAR by Guruprasad Bhat](https://medium.com/@blguru20/manifest-in-adaptive-autosar-69366e3177a6)
+
 
 Note:
 Synchronous vs Asynchronous - Concept is similar to AUTOSAR
